@@ -119,11 +119,8 @@ def test_connection():
 
 
 if __name__ == '__main__':
-    # Example usage:
     test_connection()
 
-
-    # S:\SID\Analytics\Working Files\Individual\Florian\Projects\Database_and_Agents\Data\HRC\steam_reviews_hrc.json
     # Paths
     root_dir = r'S:\SID\Analytics\Working Files\Individual\Florian\Projects\Database_and_Agents\Data\HRC'
     path_input = os.path.join(root_dir, "steam_reviews_hrc.json")
